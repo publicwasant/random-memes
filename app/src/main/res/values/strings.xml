@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="tap_to_test_system">Tap to test system!</string>
+    <string name="happy_birthday_wasant">Happy Birthday, Wasant!</string>
+    <string name="from_someone_who_love_you">From someone who love you.</string>
+    <string name="todo">TODO</string>
+    <string name="click_me">click me</string>
+    <string name="you_not_even_click_me">You not even click me...</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_to_random_memes_on_internet">Welcome to Random Memes On Internet.</string>
+</resources>
